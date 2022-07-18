@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    height: 600px;
+    justify-content: space-evenly;
+    align-items: end;
+    box-sizing: border-box;
+    padding-bottom: 50px;
+}
+
+.card {
+    height: 400px;
+    width: 350px;
+    padding-top: 70px;
+    border: 1px solid black;
+    margin-top: 100px;
+}
+
+.title > h1 {
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description {
+    text-align: justify;
+    box-sizing: border-box;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.button-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-box > button {
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: center;
+}

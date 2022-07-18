@@ -1,0 +1,45 @@
+.target{
+    background: cornflowerblue;
+    height: 250px;
+    width: 495px;
+    box-sizing: border-box;
+    padding-top: 81.5px;
+    display: block;
+    margin: 0 auto;
+}
+.target>h2{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+.point{
+    background: #32519f;
+    height: 250px;
+    width: 152px;
+    box-sizing: border-box;
+    padding-top: 81.5px;
+    margin: 10px;
+}
+.point>h4{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+.fatherpoint{
+    display: flex;
+    justify-content: center;
+}
+.target2{
+    background: cornflowerblue;
+    height: 400px;
+    width: 495px;
+    box-sizing: border-box;
+    padding-top: 181px ;
+    display: block;
+    margin: 0 auto;
+}
+.target2>h2{
+    color:#fff;
+    text-decoration: none;
+    text-align: center;
+}
